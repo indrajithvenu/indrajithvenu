@@ -1,25 +1,19 @@
-Hi, I'm Indrajith 👋
+# Hi, I'm Indrajith 👋
 
-Software Engineer transitioning into QA Automation.
+Software Engineer transitioning to QA Automation.
 
-Skills
+## Skills
+- Manual Testing
+- Selenium WebDriver
+- TestNG
+- Java
+- SQL
+- Postman
+- Jira
 
-✔ Manual Testing
-
-✔ Selenium
-
-✔ Postman
-
-✔ SQL
-
-✔ Java
-
-Projects
-
-• Selenium Automation Framework
-
-• Manual Testing
-
-• API Testing
+## Featured Projects
+✅ Manual Testing Project
+✅ Selenium Automation Framework
+✅ API Testing with Postman
 
 Currently preparing for ISTQB CTFL.
